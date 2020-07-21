@@ -10,9 +10,9 @@ Most/many spark amp orders are pre-orders via the Positive Grid website. Dependi
 
 Get the Spark Amp App for your device. You can install this app even if you don't have your amp yet:
 
-Android: https://play.google.com/store/apps/details?id=com.positivegrid.spark&hl=en
+Android: <https://play.google.com/store/apps/details?id=com.positivegrid.spark&hl=en>
 
-iPad/iPhone: https://apps.apple.com/au/app/spark-amp/id1457653921
+iPad/iPhone: <https://apps.apple.com/au/app/spark-amp/id1457653921>
 
 **There is currently no app for desktop computers (Windows or mac OS).**
 
@@ -43,7 +43,7 @@ The app has limited support for sourcing the names of backing tracks from your m
 The *Firmware* is the software the amp uses internally to function (bluetooth connectivty, amp and FX models, controls etc). The firmware version you have installed can be see in the app when the amp is connected (it's a version number such as `1.2.3.37`). Firmware is a completely different thing to the mobile app.
 
 To update your firmware see the PG guide:
-https://help.positivegrid.com/hc/en-us/articles/360038685111-How-To-Update-The-Firmware-on-Spark-
+<https://help.positivegrid.com/hc/en-us/articles/360038685111-How-To-Update-The-Firmware-on-Spark->
 
 - on Windows you may have to install the Spark ASIO driver first (see the above link) and reboot before attempting the update.
 - on Mac OS you may have to allow the app to run via the the mac OS Security setting, because the app has been downloaded from the internet.
@@ -52,10 +52,10 @@ https://help.positivegrid.com/hc/en-us/articles/360038685111-How-To-Update-The-F
 You can put any other physical FX pedal in front of the amp if you want to (Wah, Pre-amp, Noise gates, Compressor etc) but there is no FX loop so you can't insert FX after the amp FX in the signal chain.
 
 ## What Amp Models can the amp simulate?
-This is the current list: https://help.positivegrid.com/hc/en-us/articles/360038772571-Spark-Amp-List
+This is the current list: <https://help.positivegrid.com/hc/en-us/articles/360038772571-Spark-Amp-List>
 
 ## What FX does the amp have?
-This is the current list: https://help.positivegrid.com/hc/en-us/articles/360038388192-Spark-Effect-List
+This is the current list: <https://help.positivegrid.com/hc/en-us/articles/360038388192-Spark-Effect-List>
 
 ## Wireless Inputs and Headphones
 - You can use any normal wireless transmitter/reciever with the Spark if you want to. This also reduces line hum that would often be induced by connecting a guitar cable. Amazon/eBay etc have many cheap transmitter/receivers that work reasonably well. Generally avoid Bluetooth transmitters/recievers due to bluetooth audio latency.
@@ -71,7 +71,7 @@ Note that in general, hum/buzz is considered a normal characteristic of amplifie
 
 Ensure the Noise Gate effect is enabled and adjust the Threshold value (when no notes are playing) to the minimum level required to line/pickup noise but to still allow for note sustain.
 
-Noise gate usage: https://www.facebook.com/jonathan.marriott.96/videos/3165897856812563
+Noise gate usage: <https://www.facebook.com/jonathan.marriott.96/videos/3165897856812563>
 
 ### Sustain/note cuts out
 If playing a note leads to the sound cutting in and out erraticaly, adjust the Noise Gate settings within the app for the preset you are using. Ensure the Noise Gate effect is enabled and adjust the Threshold value (when no notes are playing) to the minimum level required to line/pickup noise but to still allow for note sustain. The required level varies slightly for each guitar/pickup combination.
@@ -80,12 +80,12 @@ If playing a note leads to the sound cutting in and out erraticaly, adjust the N
 The amp has a deeper bass presence when placed on the floor. Lift it off the floor.
 
 ## Recording
-- On Windows, install and use the Spark ASIO driver to reduce audio input/output latency: https://help.positivegrid.com/hc/en-us/articles/360039598451-Spark-Windows-ASIO-Driver-
+- On Windows, install and use the Spark ASIO driver to reduce audio input/output latency: <https://help.positivegrid.com/hc/en-us/articles/360039598451-Spark-Windows-ASIO-Driver->
 - In any recording software, make sure the Spark is selected as the track input, and recording is armed.
 
 ## Resources
-- The `Spark Amp Owners Club` facebook group is probably the most useful and active community for Spark Amp Owners: https://www.facebook.com/groups/202479867664001
-- The PG forum: https://forum.positivegrid.com/category/28/spark
+- The `Spark Amp Owners Club` facebook group is probably the most useful and active community for Spark Amp Owners: <https://www.facebook.com/groups/202479867664001>
+- The PG forum: <https://forum.positivegrid.com/category/28/spark>
 
 
 ## Help, I can't stop playing and my fingers are bleeding
