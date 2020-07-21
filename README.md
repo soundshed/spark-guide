@@ -48,6 +48,14 @@ https://help.positivegrid.com/hc/en-us/articles/360038685111-How-To-Update-The-F
 - on Windows you may have to install the Spark ASIO driver first (see the above link) and reboot before attempting the update.
 - on Mac OS you may have to allow the app to run via the the mac OS Security setting, because the app has been downloaded from the internet.
 
+## Using other Pedals with the Amp
+You can put any other physical FX pedal in front of the amp if you want to (Wah, Pre-amp, Noise gates, Compressor etc) but there is no FX loop so you can't insert FX after the amp FX in the signal chain.
+
+## What Amp Models can the amp simulate?
+This is the current list: https://help.positivegrid.com/hc/en-us/articles/360038772571-Spark-Amp-List
+
+## What FX does the amp have?
+This is the current list: https://help.positivegrid.com/hc/en-us/articles/360038388192-Spark-Effect-List
 
 ## Wireless Inputs and Headphones
 - You can use any normal wireless transmitter/reciever with the Spark if you want to. This also reduces line hum that would often be induced by connecting a guitar cable. Amazon/eBay etc have many cheap transmitter/receivers that work reasonably well. Generally avoid Bluetooth transmitters/recievers due to bluetooth audio latency.
