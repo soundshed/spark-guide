@@ -18,14 +18,14 @@ iPad/iPhone: <https://apps.apple.com/au/app/spark-amp/id1457653921>
 
 Confusingly, Positive Grid also make a music tuition app called Spark Edu which is a subscription service that is no relation to your Spark amp. You do not have to pay to use the spark app with your amp, so if something is asking for money you've gone to the wrong place.
 
-To use the app on iOS/iPhoneOS/iPadOS you should have a device capable of running iOS 13 or higher. Apple no longer allow app updates to devices which do not support this version of iOS or higher, so if you have an old device (iOS 12 or lower) you will no longer have app updates.
+To use the app on iOS/iPhoneOS/iPadOS you should have a device capable of running iOS 13 or higher. Apple no longer allow app updates to devices which do not support this version of iOS or higher, so if you have an old device (iOS 12 or lower) you will no longer have app updates. 
 
 On Android, the app currently works on Android 7.0 and higher.
 
 ## Using The Amp
 - To get started, first try using the amp straight out the box. 
 - You can use the amp without the app but functionality is limited to the basic controls on the amp itself. The real flexibility of the amp comes from using it with the app. *Install the correct app on your mobile device (phone/tablet), connect to the amp using Bluetooth.*
-- A common issue is that either the app backing tracks come through the amp but changing controls doesn't work or vice-versa. The amp uses two types of Bluetooth connections (Bluetooth Audio `Spark 40 Audio` and Bluetooth Low Energy `Spark 40 BLE`). On iOS these both need to be connected before you use the app.
+- **A common issue is that either the app backing tracks come through the amp but changing controls doesn't work or vice-versa.** The amp uses two types of Bluetooth connections (Bluetooth Audio `Spark 40 Audio` and Bluetooth Low Energy `Spark 40 BLE`). On iOS these both need to be connected before you use the app. The app also needs Location Services to be enabled so that BLE (Bluetooth Low Energy) works: https://support.apple.com/en-au/HT207092
 - If you can't hear backing tracks/smartjam audio, make sure the little `Music Volume` knob is turned up and the audio is turned up on your mobile device, this applies when using as a Bluetooth speaker as well. 
 - When you cahnge a Preset using the amp or the app, the physical Knob positions don't mean anything until you adjust them (the settings from the Preset take priority until you adjust a knob). Otherwise the knobs would have to actually spin as you changed settings in the app :)
 - Your serial number (for registration etc) is visible in the App when the amp is connected and is also on a little sticker near the Aux port.
