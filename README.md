@@ -67,6 +67,8 @@ Noise gate usage: https://www.facebook.com/jonathan.marriott.96/videos/316589785
 ### Sustain/note cuts out
 If playing a note leads to the sound cutting in and out erraticaly, adjust the Noise Gate settings within the app for the preset you are using. Ensure the Noise Gate effect is enabled and adjust the Threshold value (when no notes are playing) to the minimum level required to line/pickup noise but to still allow for note sustain. The required level varies slightly for each guitar/pickup combination.
 
+### Sound is too Boomy/Bassy
+The amp has a deeper bass presence when placed on the floor. Lift it off the floor.
 
 ## Recording
 - On Windows, install and use the Spark ASIO driver to reduce audio input/output latency: https://help.positivegrid.com/hc/en-us/articles/360039598451-Spark-Windows-ASIO-Driver-
