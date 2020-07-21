@@ -54,7 +54,7 @@ https://help.positivegrid.com/hc/en-us/articles/360038685111-How-To-Update-The-F
 - Bluetooth Headphone will not generally work with the Spark. There is no way to tell them to connect to the amp (unlike conencting to a computer, phone etc). In addition Bluetooth audio often has very high latency (the delay between strumming the guitar and hearing the results back grom the amp) which makes it inappropriate for this use.
 
 ## Common Amp Issues
-- Screeching/siren tone when changin presets: This is known bug, update the amp firmware (see below).
+- Screeching/siren tone when changing presets: This is known bug, update the amp firmware (see below).
 
 ### Hum and Earthing issues
 Some users of the first generation Spark Amp have reported hum (buzzing) when using the amp. This has mostly been attributed to lack of electrical grounding on the power supply unit and affects users differently dependin on their house wiring and local electrical interference. Affected users should open a support ticket with PG to discuss. Several users have reported being sent replacement power supplies by PG to help resolve the issue.
