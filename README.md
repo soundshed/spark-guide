@@ -2,7 +2,7 @@
 This is a community-maintained guide to getting started with the Positive Grid Spark Amp, including frequently asked questions. Feel free to contribute changes.
 
 ## Orders
-Most/many spark amp orders are pre-orders via the Positive Grid website. Depending on your geographic location and when you ordered most customers have experienced long (several month) delays in receiving their amps. Customers ordering today can expect less wait time. The amp is not generally available in stores currently.
+Most original spark amp orders were pre-orders via the Positive Grid website. Customers ordering today can expect less wait time. The amp is not generally available in stores currently.
 
 ## Getting Started
 
@@ -14,20 +14,24 @@ Android: <https://play.google.com/store/apps/details?id=com.positivegrid.spark&h
 
 iPad/iPhone: <https://apps.apple.com/au/app/spark-amp/id1457653921>
 
-**There is currently no app for desktop computers (Windows or mac OS).**
+**There is currently no offical app for desktop computers (Windows or mac OS).**
+
+There is an unofficial app community developed app for Windows, macOS and Linux: https://soundshed.com
+
+People with recent Chromebooks with Google Play store may find they can use the Android App.
 
 Confusingly, Positive Grid also make a music tuition app called Spark Edu which is a subscription service that is no relation to your Spark amp. You do not have to pay to use the spark app with your amp, so if something is asking for money you've gone to the wrong place.
 
 To use the app on iOS/iPhoneOS/iPadOS you should have a device capable of running iOS 13 or higher. Apple no longer allow app updates to devices which do not support this version of iOS or higher, so if you have an old device (iOS 12 or lower) you will no longer have app updates. 
 
-On Android, the app currently works on Android 7.0 and higher.
+On Android, the app is currently supported on Android 8.1 and higher. Users of Android 7.0 have previously managed to get the app to work but this is not guaranteed especially as the app receives updates which may make it less compatible. 
 
 ## Using The Amp
 - To get started, first try using the amp straight out the box. 
 - You can use the amp without the app but functionality is limited to the basic controls on the amp itself. The real flexibility of the amp comes from using it with the app. *Install the correct app on your mobile device (phone/tablet), connect to the amp using Bluetooth.*
-- **A common issue is that either the app backing tracks come through the amp but changing controls doesn't work or vice-versa.** The amp uses two types of Bluetooth connections (Bluetooth Audio `Spark 40 Audio` and Bluetooth Low Energy `Spark 40 BLE`). On iOS these both need to be connected before you use the app. The app also needs Location Services to be enabled so that BLE (Bluetooth Low Energy) works: https://support.apple.com/en-au/HT207092
+- **A common issue is that either the app backing tracks come through the amp but changing controls doesn't work or vice-versa.** The amp uses two types of Bluetooth connections (Bluetooth Audio `Spark 40 Audio` and Bluetooth Low Energy `Spark 40 BLE`). You need to pair with Spark 40 Audio before you use the app. The app also needs Location Services to be enabled so that BLE (Bluetooth Low Energy) works: https://support.apple.com/en-au/HT207092
 - If you can't hear backing tracks/smartjam audio, make sure the little `Music Volume` knob is turned up and the audio is turned up on your mobile device, this applies when using as a Bluetooth speaker as well. 
-- When you cahnge a Preset using the amp or the app, the physical Knob positions don't mean anything until you adjust them (the settings from the Preset take priority until you adjust a knob). Otherwise the knobs would have to actually spin as you changed settings in the app :)
+- When you change a Preset using the amp or the app, the physical Knob positions don't mean anything until you adjust them (the settings from the Preset take priority until you adjust a knob). Otherwise the knobs would have to actually spin as you changed settings in the app :)
 - Your serial number (for registration etc) is visible in the App when the amp is connected and is also on a little sticker near the Aux port.
 
 ## Using The App
@@ -62,10 +66,10 @@ This is the current list: <https://help.positivegrid.com/hc/en-us/articles/36003
 - Bluetooth Headphone will not generally work with the Spark. There is no way to tell them to connect to the amp (unlike conencting to a computer, phone etc). In addition Bluetooth audio often has very high latency (the delay between strumming the guitar and hearing the results back grom the amp) which makes it inappropriate for this use.
 
 ## Common Amp Issues
-- Screeching/siren tone when changing presets: This is known bug, update the amp firmware (see below).
+- Screeching/siren tone when changing presets: This is known bug in the first batches of the amp, update the amp firmware (see below).
 
 ### Hum and Earthing issues
-Some users of the first generation Spark Amp have reported hum (buzzing) when using the amp. This has mostly been attributed to lack of electrical grounding on the power supply unit and affects users differently dependin on their house wiring and local electrical interference. Affected users should open a support ticket with PG to discuss. Several users have reported being sent replacement power supplies by PG to help resolve the issue.
+Some users of the first generation Spark Amp have reported hum (buzzing) when using the amp. This has mostly been attributed to lack of electrical grounding on the power supply unit and affects users differently dependin on their house wiring and local electrical interference. The isse will be particularly apparent when using guitars with single coil pickups and non-grounded hardware. Affected users should open a support ticket with PG to discuss. Several users have reported being sent replacement power supplies by PG to help resolve the issue.
 
 Note that in general, hum/buzz is considered a normal characteristic of amplifiers when used on high-gain settings, because low level electrical interference is amplified by the gain stages of the amp (common to all amplifiers). Over the years this has led to the introduction of Noise Gates (which silence noise when the guitar is not playing). The Spark has a noise gate setting which you can adjust in the app.
 
