@@ -16,7 +16,7 @@ iPad/iPhone: <https://apps.apple.com/au/app/spark-amp/id1457653921>
 
 **There is currently no offical app for desktop computers (Windows or mac OS).**
 
-There is an unofficial app community developed app for Windows, macOS and Linux: https://soundshed.com
+There is an unofficial community app developed Desktop app called Soundshed, for Windows, macOS and Linux, which can be used to control the amp, manage presets and browse video backing tracks etc: <https://soundshed.com>
 
 People with recent Chromebooks with Google Play store may find they can use the Android App.
 
